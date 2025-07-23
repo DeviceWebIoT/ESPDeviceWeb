@@ -1,0 +1,34 @@
+####################################
+# DeviceWeb - keyboard.txt
+# Palavras-chave da biblioteca
+####################################
+
+DeviceWebConfig	KEYWORD1
+DeviceWebVar	KEYWORD1
+DeviceWeb	KEYWORD1
+
+setDebug	KEYWORD2
+setWifi	KEYWORD2
+setHttps	KEYWORD2
+setMqtt	KEYWORD2
+enableWhatsapp	KEYWORD2
+enableTelegram	KEYWORD2
+enableSms	KEYWORD2
+enableEmail	KEYWORD2
+
+sendWhatsapp	KEYWORD2
+sendTelegram	KEYWORD2
+sendSms	KEYWORD2
+sendEmail	KEYWORD2
+
+connectWifi	KEYWORD2
+connectMqtt	KEYWORD2
+loopMqtt	KEYWORD2
+callbackMqtt	KEYWORD2
+scanHttps	KEYWORD2
+loop	KEYWORD2
+
+setValue	KEYWORD2
+getValue	KEYWORD2
+getName	KEYWORD2
+getType	KEYWORD2
